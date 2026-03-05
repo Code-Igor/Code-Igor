@@ -26,7 +26,7 @@ Hey! I´m Igor, a software engineering student, IT enthusiast, and passionate ab
 <details>
  <summary><h3> 👇​ Git Hub Stats 👇​ </h3></summary>
 
- <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Code-Igor&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Igor)]
  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Code-Igor&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   
