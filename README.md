@@ -6,6 +6,16 @@ Feel free to explore what I've already done here. I promise I'll add even more p
 
 ---
 
+### Status
+
+![Discord](https://lanyard.cnrad.dev/api/igortaon?badge=true)
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ycs2qm72demcs5zzhjxzypgxvm&cover_image=true)
+
+![GitHub followers](https://img.shields.io/github/followers/Code-Igor?style=social)
+
+---
+
 ### 🧰 Main Languages and Tools ☁️
 <!--tech stack icons-->
 <a href="https://skillicons.dev">
