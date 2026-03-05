@@ -5,11 +5,9 @@ Hey! I´m Igor, a software engineering student, IT enthusiast, and passionate ab
 ---
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"> 🧰 Main Languages and Tools ☁️ </h2></summary>
-  </ul>
-</div>
+### 🧰 Main Languages and Tools ☁️
+  
+
 
 <!--tech stack icons-->
 <p align="center">
