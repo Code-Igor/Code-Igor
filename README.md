@@ -14,7 +14,7 @@ Hey! I´m Igor, a software engineering student, IT enthusiast, and passionate ab
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,,cs,py,js,,css,html,postgres,mysql,nodejs,spring,dotnet,github,docker,figma,idea,visualstudio,vscode&obsidian=14" />
+    <img src="https://skillicons.dev/icons?i=java,cs,py,js,css,html,postgres,mysql,nodejs,spring,dotnet,github,docker,figma,idea,visualstudio,vscode&obsidian=14" />
   </a>
 </p
 ---
