@@ -18,19 +18,7 @@ Feel free to explore what I've already done here. I promise I'll add even more p
 <details>
  <summary><h3> 👇​ Git Hub Stats​ </h3></summary>
 
- <table border="0" style="border:none">
-<tr>
-<td width="50%" style="border:none">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Code-Igor&show_icons=true&theme=dark&hide_border=false"/>
-  </td>
-<td width="50%" style="border:none">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Code-Igor&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>  
-</td>
-</tr>
-</table>
-
-
-
+<!-- git hub stats table-->
 <table width="100%">
 <tr>
 <td align="left" width="50%">
@@ -41,15 +29,13 @@ Feel free to explore what I've already done here. I promise I'll add even more p
 
 <td align="right" width="50%">
 
-<<img width="95%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Code-Igor&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
+<img width="95%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Code-Igor&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
 
 </td>
 </tr>
 </table>
 
-
-
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
