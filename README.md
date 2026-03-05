@@ -15,10 +15,8 @@ Hey! I´m Igor, a software engineering student, IT enthusiast, and passionate ab
   <img src="https://skillicons.dev/icons?i=java,cs,py,js,css,html,postgres,mysql,nodejs,spring,dotnet,github,docker,figma,idea,visualstudio,vscode&obsidian=14" />
 </a>
 
----
 
 
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Code-Igor&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -26,5 +24,9 @@ Hey! I´m Igor, a software engineering student, IT enthusiast, and passionate ab
 
 
 <details>
- <summary><h3>👨‍💻 Igor Coding Journey</h3></summary>
+ <summary><h3> 👇​ Git Hub Stats 👇​ </h3></summary>
+
+ <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Code-Igor&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+ <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Code-Igor&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
   
