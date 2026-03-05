@@ -29,6 +29,13 @@ Feel free to explore what I've already done here. I promise I'll add even more p
 </tr>
 </table>
 
+<p align="center">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Code-Igor&show_icons=true&theme=dark&hide_border=false"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Code-Igor&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>  
+</p>
+
+
+
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
