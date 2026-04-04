@@ -4,9 +4,10 @@ Hey there! I´m Igor, a software engineering student, IT enthusiast, and passion
 
 At the moment: Software Engineering 5/9 ✅
 
+
 Feel free to explore what I've already done here. I promise I'll add even more projects...
 
-
+<br> 
    <p align="left"> 
     <a href="https://github.com/code-igor?tab=followers">
          <img 
@@ -26,7 +27,7 @@ Feel free to explore what I've already done here. I promise I'll add even more p
 
 ---
 
-### 🧰 Main Languages and Tools ☁️
+### 🧰 Main Languages and Tools 
 <!--tech stack icons-->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,cs,py,js,css,html,postgres,mysql,nodejs,spring,dotnet,github,docker,figma,idea,visualstudio,vscode&obsidian=14" />
@@ -37,8 +38,6 @@ Feel free to explore what I've already done here. I promise I'll add even more p
 
 ### 👇​ Git Hub Stats
 
-
-<!-- git hub stats table-->
 <p align="left">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=code-igor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
