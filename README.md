@@ -6,7 +6,6 @@ At the moment: Software Engineering 5/9 ✅
 
 Feel free to explore what I've already done here. I promise I'll add even more projects...
 
----
 
    <p align="left"> 
     <a href="https://github.com/code-igor?tab=followers">
