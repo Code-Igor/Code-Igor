@@ -13,12 +13,12 @@ Feel free to explore what I've already done here. I promise I'll add even more p
          <img 
          alt="followers" 
          title="Me siga no GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/followers/[SEU_USUARIO_GITHUB]?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+         src="https://custom-icon-badges.demolab.com/github/followers/Code-Igor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
          </a>
     <a href="https://github.com/code-igor?tab=repositories&sort=stargazers">
          <img alt="total stars" 
          title="Total de estrelas" 
-         src="https://custom-icon-badges.demolab.com/github/stars/[SEU_USUARIO_GITHUB]?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+         src="https://custom-icon-badges.demolab.com/github/stars/Code-Igor?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
     <a href="https://www.linkedin.com/in/igor-dos-santos-lopes"
         target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
