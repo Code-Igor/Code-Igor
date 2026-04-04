@@ -36,8 +36,8 @@ Feel free to explore what I've already done here. I promise I'll add even more p
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<details>
- <summary><h3> 👇​ Git Hub Stats​ </h3></summary>
+### 👇​ Git Hub Stats
+
 
 <!-- git hub stats table-->
 <p align="left">
