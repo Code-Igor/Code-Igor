@@ -32,8 +32,8 @@ Feel free to explore what I've already done here. I promise I'll add even more p
   <img src="https://skillicons.dev/icons?i=java,cs,py,js,css,html,postgres,mysql,nodejs,spring,dotnet,github,docker,figma,idea,visualstudio,vscode&obsidian=14" />
 </a>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
 
 ### 👇​ Git Hub Stats
 
@@ -50,3 +50,6 @@ Feel free to explore what I've already done here. I promise I'll add even more p
     width="390"
   />
 </p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
