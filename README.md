@@ -1,6 +1,7 @@
 # 👨🏻‍💻 Code-Igor 
 
 Hey there! I´m Igor, a software engineering student, IT enthusiast, and passionate about software development.
+
 At the moment: Software Engineering 5/9 ✅
 
 Feel free to explore what I've already done here. I promise I'll add even more projects...
