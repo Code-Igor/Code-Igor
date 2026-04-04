@@ -8,6 +8,25 @@ Feel free to explore what I've already done here. I promise I'll add even more p
 
 ---
 
+   <p align="left"> 
+    <a href="https://github.com/code-igor?tab=followers">
+         <img 
+         alt="followers" 
+         title="Me siga no GitHub" 
+         src="https://custom-icon-badges.demolab.com/github/followers/[SEU_USUARIO_GITHUB]?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+         </a>
+    <a href="https://github.com/code-igor?tab=repositories&sort=stargazers">
+         <img alt="total stars" 
+         title="Total de estrelas" 
+         src="https://custom-icon-badges.demolab.com/github/stars/[SEU_USUARIO_GITHUB]?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+    <a href="https://www.linkedin.com/in/igor-dos-santos-lopes"
+        target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
+         title="Vamos fazer uma conexão!" /></a>
+   </p>
+
+---
+
 ### 🧰 Main Languages and Tools ☁️
 <!--tech stack icons-->
 <a href="https://skillicons.dev">
@@ -21,18 +40,14 @@ Feel free to explore what I've already done here. I promise I'll add even more p
  <summary><h3> 👇​ Git Hub Stats​ </h3></summary>
 
 <!-- git hub stats table-->
-<table width="100%">
-<tr>
-<td align="left" width="50%">
-
-<img width="95%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Code-Igor&show_icons=true&theme=dark&hide_border=false"/>
-
-</td>
-
-<td align="right" width="50%">
-
-<img width="95%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Code-Igor&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
-
-</td>
-</tr>
-</table>  
+<p align="left">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=code-igor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    width="420"
+  />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=code-igor&layout=compact&theme=tokyonight&locale=pt-br"
+    width="390"
+  />
+</p>
