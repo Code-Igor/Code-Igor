@@ -48,6 +48,6 @@ Feel free to explore what I've already done here. I promise I'll add even more p
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=code-igor&layout=compact&theme=tokyonight&locale=pt-br"
-    width="390"
+    width="420"
   />
 </p>
