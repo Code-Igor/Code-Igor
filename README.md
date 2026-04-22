@@ -27,7 +27,7 @@ Feel free to explore what I've already done here. I promise I'll add even more p
 ### 🧰 Main Languages and Tools 
 <!--tech stack icons-->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,cs,py,js,css,html,postgres,mysql,nodejs,spring,dotnet,github,docker,figma,idea,visualstudio,vscode&obsidian=14" />
+  <img src="https://skillicons.dev/icons?i=java,cs,py,js,css,html,postgres,mysql,nodejs,spring,dotnet,github,figma,idea,visualstudio,vscode&obsidian=14" />
 </a>
 
 
