@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Code-Igor 
 
-Hey there! I´m Igor, a software engineering student, IT enthusiast, and passionate about software development.
+Hey there! I´m Igor, a software engineering student, IT enthusiast, and passionate about software.
 
-At the moment: Software Engineering 5/9 ✅
+At the moment: Software Engineering 6/9 ✅
 
 Feel free to explore what I've already done here. I promise I'll add even more projects...<br> 
    <p align="left"> <br>
@@ -30,22 +30,6 @@ Feel free to explore what I've already done here. I promise I'll add even more p
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,java,py,ts,js,css,html,react,spring,github,idea,visualstudio,vscode,figma&obsidian=14" />
 </a>
 
-
----
-
-### 👇​ Git Hub Stats
-
-<p align="left">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=code-igor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    width="390"
-  />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=code-igor&layout=compact&theme=tokyonight&locale=pt-br"
-    width="390"
-  />
-</p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
