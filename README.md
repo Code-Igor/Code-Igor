@@ -4,7 +4,7 @@ Hey there! I´m Igor, a software engineering student, IT enthusiast, and passion
 
 At the moment: Software Engineering 6/9 ✅
 
-Feel free to explore what I've already done here. I promise I'll add even more projects...<br> 
+Feel free to explore what I've already done here. <br> 
    <p align="left"> <br>
     <a href="https://github.com/code-igor?tab=followers">
          <img 
